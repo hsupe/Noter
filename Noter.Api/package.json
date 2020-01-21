@@ -1,0 +1,9 @@
+{
+  "name": "noter.api",
+  "version": "0.0.0",
+  "description": "Noter.Api",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
